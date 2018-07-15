@@ -1,0 +1,239 @@
+\begin{thebibliography}{10}
+
+\bibitem{Baxter1998}
+I.D. Baxter, A.~Yahin, L.~Moura, M.~Sant'Anna, and L.~Bier.
+\newblock {Clone detection using abstract syntax trees}.
+\newblock In {\em Proceedings. International Conference on Software Maintenance
+  (Cat. No. 98CB36272)}, pages 368--377. IEEE Comput. Soc, 1998.
+
+\bibitem{Bazrafshan2013}
+Saman Bazrafshan.
+\newblock {No clones, no trouble?}
+\newblock In {\em 2013 7th International Workshop on Software Clones (IWSC)},
+  pages 37--38. IEEE, may 2013.
+
+\bibitem{Bellon2007}
+Stefan Bellon, Rainer Koschke, Giulio Antoniol, Jens Krinke, and Ettore Merlo.
+\newblock {Comparison and Evaluation of Clone Detection Tools}.
+\newblock {\em IEEE Transactions on Software Engineering}, 33(9):577--591, sep
+  2007.
+
+\bibitem{Cordy2003}
+J.~R. Cordy.
+\newblock {Comprehending Reality: Practical Challenges to Software Maintenance
+  Automation}.
+\newblock jan 2003.
+
+\bibitem{Kapser2006}
+Michael W.~Godfrey {Cory J. Kapser}.
+\newblock {Supporting the Analysis of Clones in Software Systems: A Case
+  Study}.
+\newblock {\em JOURNAL OF SOFTWARE MAINTENANCE AND EVOLUTION: RESEARCH AND
+  PRACTICE}, 18:2006, 2006.
+
+\bibitem{Davey1995}
+N.~Davey, P.~Barson, S.~Field, R.~Frank, and D.~Tansley.
+\newblock {The development of a software clone detector}.
+\newblock 1995.
+
+\bibitem{Ducasse1999}
+S.~Ducasse, M.~Rieger, and S.~Demeyer.
+\newblock {A language independent approach for detecting duplicated code}.
+\newblock In {\em Proceedings IEEE International Conference on Software
+  Maintenance - 1999 (ICSM'99). 'Software Maintenance for Business Change'
+  (Cat. No.99CB36360)}, pages 109--118. IEEE, 1999.
+
+\bibitem{Elva2013}
+R~Elva.
+\newblock {Detecting Semantic Method Clones in Java Code Using Method
+  IOE-Behavior}.
+\newblock 2013.
+
+\bibitem{Elva2012}
+R~Elva and GT~Leavens.
+\newblock {Semantic clone detection using method IOE-behavior}.
+\newblock {\em Proceedings of the 6th International Workshop on}, 2012.
+
+\bibitem{Gabel2008}
+M~Gabel, L~Jiang, and Z~Su.
+\newblock {Scalable detection of semantic clones}.
+\newblock {\em 2008 ACM/IEEE 30th International}, 2008.
+
+\bibitem{Geiger2006}
+Reto Geiger, Beat Fluri, Harald~C. Gall, and Martin Pinzger.
+\newblock {\em {Fundamental Approaches to Software Engineering}}, volume 3922
+  of {\em Lecture Notes in Computer Science}.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, mar 2006.
+
+\bibitem{Gode2011}
+Nils Gode and Jan Harder.
+\newblock {Clone Stability}.
+\newblock In {\em 2011 15th European Conference on Software Maintenance and
+  Reengineering}, pages 65--74. IEEE, mar 2011.
+
+\bibitem{Harder2013}
+Jan Harder and Nils G{\"{o}}de.
+\newblock {Cloned code: stable code}.
+\newblock {\em Journal of Software: Evolution and Process}, 25(10):1063--1088,
+  oct 2013.
+
+\bibitem{Higo2011}
+Yoshiki Higo and Shinji Kusumoto.
+\newblock {Code Clone Detection on Specialized PDGs with Heuristics}.
+\newblock In {\em 2011 15th European Conference on Software Maintenance and
+  Reengineering}, pages 75--84, Higo2011, mar 2011. IEEE.
+
+\bibitem{Hordijk2009}
+Wiebe Hordijk, Mar{\'{i}}a~Laura Ponisio, and Roel Wieringa.
+\newblock {Harmfulness of code duplication: a structured review of the
+  evidence}.
+\newblock pages 88--97, apr 2009.
+
+\bibitem{Hotta2012}
+Keisuke Hotta, Yui Sasaki, Yukiko Sano, Yoshiki Higo, and Shinji Kusumoto.
+\newblock {An Empirical Study on the Impact of Duplicate Code}.
+\newblock {\em Advances in Software Engineering}, 2012:1--22, jan 2012.
+
+\bibitem{Hunt1977}
+James~W. Hunt and Thomas~G. Szymanski.
+\newblock {A fast algorithm for computing longest common subsequences}.
+\newblock {\em Communications of the ACM}, 20(5):350--353, may 1977.
+
+\bibitem{Jaccard1901}
+P~Jaccard.
+\newblock {Distribution de la Flore Alpine: dans le Bassin des dranses et dans
+  quelques r{\'{e}}gions voisines}.
+\newblock 1901.
+
+\bibitem{Kamiya2002}
+T.~Kamiya, S.~Kusumoto, and K.~Inoue.
+\newblock {CCFinder: a multilinguistic token-based code clone detection system
+  for large scale source code}.
+\newblock {\em IEEE Transactions on Software Engineering}, 28(7):654--670, jul
+  2002.
+
+\bibitem{Kapser2004}
+Cory Kapser and Michael~W. Godfrey.
+\newblock {Aiding Comprehension of Cloning Through Categorization}.
+\newblock pages 85--94, sep 2004.
+
+\bibitem{Kapser2008}
+Cory~J. Kapser and Michael~W. Godfrey.
+\newblock {“Cloning considered harmful” considered harmful: patterns of
+  cloning in software}.
+\newblock {\em Empirical Software Engineering}, 13(6):645--692, jul 2008.
+
+\bibitem{Keivanloo2012b}
+Iman Keivanloo, Chanchal~K. Roy, and Juergen Rilling.
+\newblock {SeByte: A semantic clone detection tool for intermediate languages}.
+\newblock In {\em 2012 20th IEEE International Conference on Program
+  Comprehension (ICPC)}, pages 247--249. IEEE, jun 2012.
+
+\bibitem{Kim2005}
+Miryung Kim, Vibha Sazawal, and David Notkin.
+\newblock {An empirical study of code clone genealogies}.
+\newblock {\em ACM SIGSOFT Software Engineering Notes}, 30(5):187, sep 2005.
+
+\bibitem{Kontogiannis2006}
+Kostas Kontogiannis, Panos Linos, and Kenny Wong.
+\newblock {Comprehension and Maintenance of Large-Scale Multi-Language Software
+  Applications}.
+\newblock In {\em 2006 22nd IEEE International Conference on Software
+  Maintenance}, pages 497--500. IEEE, sep 2006.
+
+\bibitem{Krinke2008}
+Jens Krinke.
+\newblock {Is Cloned Code More Stable than Non-cloned Code?}
+\newblock In {\em 2008 Eighth IEEE International Working Conference on Source
+  Code Analysis and Manipulation}, pages 57--66. IEEE, sep 2008.
+
+\bibitem{Krutz2014}
+Daniel~E. Krutz and Wei Le.
+\newblock {A code clone oracle}.
+\newblock In {\em Proceedings of the 11th Working Conference on Mining Software
+  Repositories - MSR 2014}, pages 388--391, New York, New York, USA, 2014. ACM
+  Press.
+
+\bibitem{Levenshtein1966}
+Vladimir~I. Levenshtein.
+\newblock {Binary codes capable of correcting deletions, insertions, and
+  reversals}.
+\newblock {\em Soviet Physics Doklady}, 10(8):707--710, 1966.
+
+\bibitem{Livieri2007}
+Simone Livieri, Yoshiki Higo, Makoto Matsushita, and Katsuro Inoue.
+\newblock {Analysis of the Linux Kernel Evolution Using Code Clone Coverage}.
+\newblock In {\em Fourth International Workshop on Mining Software Repositories
+  (MSR'07:ICSE Workshops 2007)}, pages 22--22. IEEE, may 2007.
+
+\bibitem{Lozano2007}
+Angela Lozano, Michel Wermelinger, and Bashar Nuseibeh.
+\newblock {Evaluating the Harmfulness of Cloning: A Change Based Experiment}.
+\newblock In {\em Fourth International Workshop on Mining Software Repositories
+  (MSR'07:ICSE Workshops 2007)}, pages 18--18. IEEE, may 2007.
+
+\bibitem{Mondal2012}
+Manishankar Mondal, Chanchal~K. Roy, Md.~Saidur Rahman, Ripon~K. Saha, Jens
+  Krinke, and Kevin~A. Schneider.
+\newblock {Comparative stability of cloned and non-cloned code}.
+\newblock In {\em Proceedings of the 27th Annual ACM Symposium on Applied
+  Computing - SAC '12}, page 1227, New York, New York, USA, mar 2012. ACM
+  Press.
+
+\bibitem{Mondal2012a}
+Manishankar Mondal, Chanchal~K. Roy, and Kevin~A. Schneider.
+\newblock {An empirical study on clone stability}.
+\newblock {\em ACM SIGAPP Applied Computing Review}, 12(3):20--36, sep 2012.
+
+\bibitem{Rajapakse2005}
+Damith~C Rajapakse and Stan Jarzabek.
+\newblock {An investigation of cloning in web applications}.
+\newblock In {\em Special interest tracks and posters of the 14th international
+  conference on World Wide Web}, WWW '05, pages 924--925, New York, NY, USA,
+  2005. ACM.
+
+\bibitem{RetoGeiger}
+Harald C. Gall Martin~Pinzger {Reto Geiger}, Beat~Fluri.
+\newblock {Relation of code clones and change couplings}.
+
+\bibitem{Roy2009a}
+Chanchal~K. Roy and James~R. Cordy.
+\newblock {A Mutation/Injection-Based Automatic Framework for Evaluating Code
+  Clone Detection Tools}.
+\newblock In {\em 2009 International Conference on Software Testing,
+  Verification, and Validation Workshops}, pages 157--166. IEEE, 2009.
+
+\bibitem{Roy2007}
+Chanchal~Kumar Roy and James~R Cordy.
+\newblock {A Survey on Software Clone Detection Research}.
+\newblock {\em Computing}, 541:115, 2007.
+
+\bibitem{Roy2008}
+C.K. Roy and J.R. Cordy.
+\newblock {NICAD: Accurate Detection of Near-Miss Intentional Clones Using
+  Flexible Pretty-Printing and Code Normalization}.
+\newblock In {\em 2008 16th IEEE International Conference on Program
+  Comprehension}, pages 172--181. IEEE, jun 2008.
+
+\bibitem{Svajlenko2014}
+Jeffrey Svajlenko, Judith~F. Islam, Iman Keivanloo, Chanchal~K. Roy, and
+  Mohammad~Mamun Mia.
+\newblock {Towards a Big Data Curated Benchmark of Inter-project Code Clones}.
+\newblock In {\em 2014 IEEE International Conference on Software Maintenance
+  and Evolution}, pages 476--480. IEEE, sep 2014.
+
+\bibitem{Uddin2011}
+Md.~Sharif Uddin, Chanchal~K. Roy, Kevin~A. Schneider, and Abram Hindle.
+\newblock {On the Effectiveness of Simhash for Detecting Near-Miss Clones in
+  Large Scale Software Systems}.
+\newblock In {\em 2011 18th Working Conference on Reverse Engineering}, pages
+  13--22. IEEE, oct 2011.
+
+\bibitem{Wagner2016}
+Stefan Wagner, Asim Abdulkhaleq, Ivan Bogicevic, Jan-Peter Ostberg, and Jasmin
+  Ramadani.
+\newblock {How are functionally similar code clones syntactically different? An
+  empirical study and a benchmark}.
+\newblock {\em PeerJ Computer Science}, 2:e49, mar 2016.
+
+\end{thebibliography}

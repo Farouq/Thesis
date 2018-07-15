@@ -1,0 +1,29 @@
+\chapter{Introduction}
+
+\section{Background}
+
+Software clones are defined as similar (near-miss) or identical (identical clones) code fragments in terms of syntax or semantic. Usually, these code fragments result from the practice of programmers copying and pasting which produces identical clones. However, if the copied code fragments have minor modifications, they result in near- miss clones. The case of having major modifications to these clones will result in their disappearance. Conversely, some clones are unintentionally introduced into software systems due to the programmer practice to achieve common tasks or due to the use of library or API to implement common tasks. When code fragments have the same functionality, regardless of their syntactic, they called semantic clones. 
+%"due to the programmer practice to achieve common tasks or due to the use of library or API to implement common tasks" sounds a bit confusing but maybe I just don't understand computers?
+
+Software code cloning offers benefits during the development process. Usually, developers reuse their own code to save the time of rewriting, or they reuse others code to overcome some programming and design limitations\cite{Roy2007}. In some cases, the cloned code might have a serious problem; i.e. bugs that need more testing or updates in the maintenance phase \cite{Geiger2006,Rajapakse2005}. On the other hand, skilled developers pay more attention in order to choose higher quality, well tested, and bug free code to clone \cite{Cordy2003,Kim2005}. Practitioners have two different opinions about whether clones are harmful \cite{Bazrafshan2013, Ducasse1999, Kapser2006, Kamiya2002, Livieri2007,Mondal2012} or not \cite{Kapser2008,Cordy2003,Kapser2006,Kapser2004,Gode2011}. As a result, some studies target software clone harmfulness/usefulness \cite{Hordijk2009}. For example, \cite{Kim2005,RetoGeiger,Lozano2007} compared the co-changes of cloned to non-cloned code. Other studies compared the stability of cloned and non-cloned code \cite{Hotta2012,Harder2013,Mondal2012a,Krinke2008}. 
+
+
+
+%importance of clone detection:
+Over the decades, practitioners have proposed different techniques to detect both syntactic and semantic clones. Detecting syntactic clone is easier than semantic clones. In syntactic clone, the source code is normalized then transformed into other representations (token, tree, or vectors) before it used for comparison. However, in semantic clone detection more normalization needs to be done. For instance, dependencies and relationships (PDG) have to be identified and represented, and the functionality should be captured and used in comparing code units. A recent study shows that existing techniques and tools have some limitation in the detection of semantic clones (functional clones)~\cite{Wagner2016}.   
+
+% importance of semantic clone detection
+%importance of cross language clone detection
+
+%Identifying cloned fragments have been the targeted by practitioner for a long time. 
+
+%clone definition
+
+More recently there has been an ongoing trend towards multi-language software development to take advantage of different programming languages~\cite{Kontogiannis2006}; specifically in the .NET context. For multi-language development, two key usage scenarios can be distinguished: (1) combining different programming languages within a single, often large and complex system, and (2) the use of several languages for re-implementation of a current system to support new client, application, or due to non-technical reasons. As a result, the ability to detect and manage similar code reuse patterns that might exist in these multiple languages systems becomes essential. While many clone detection tools are capable of supporting different programming languages, they lack actual cross-language support during detection time. Consequently, these tools only detect clones in one program language at the time, and do not detect clones that span over multiple programming languages.
+%this sentence is messy: "the use of several languages for re-implementation of a current system to support new client, application, or due to non-technical reasons". The tense is off and it sounds like you're describing too many things in one sentence. 
+
+%Semantically equivalent function clones: Similarity between the functions is based on the semantic similarity of the functions. Two functions with identi- cal functionality may be considered as clones even if they differ in names, have different order and names of arguments, and different names of local variables. This is like the Type IV clones that we provide in Section 7.2.  Fanta and Rajlich [78] ..... Roy 
+
+The accuracy of both emerging and proposed techniques are needed to be evaluated in detecting all types of clones. Three major techniques are used for evaluation: (1) manual inspection of reported clones to identify true positives and false positives, (2) injecting the source code with artificially generated clones to measure how many clones the tool(s) are able to detect~\cite{Svajlenko2014,Roy2009a}, and 3) using benchmarks, for already identified and known clones in the system~\cite{Krutz2014,Bellon2007}.   
+
+The rest of the proposal is organized as follows: Background topics of my research that includes clone definition, intermediate language, Ontology, ontology matching, and matching algorithms which are presented in section 2. Section 3 presents the related work to our research. Section 4 states the thesis statement. Section 5 presents our study in clone detection across programming languages. Section 6 describes a proposed study in detecting semantic clones. Another proposed technique in the detection of semantic clones is presented in section 7. In section 8, we describe a technique to build a clone oracle. Finally, Section 9 concludes the paper. 

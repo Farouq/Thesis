@@ -1,0 +1,19 @@
+\contentsline {chapter}{Permission to Use}{i}{Doc-Start}
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.2}
+\contentsline {chapter}{Contents}{v}{chapter*.3}
+\contentsline {chapter}{List of Tables}{vi}{chapter*.3}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.3}
+\contentsline {chapter}{List of Abbreviations}{viii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Semantic clone definition}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Common Intermediate Language}{4}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Ontology}{5}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Ontoloy Matching}{5}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Matching Algorithms}{6}{subsection.2.1.5}
+\contentsline {chapter}{References}{8}{subsection.2.1.5}
+\contentsline {chapter}{Appendix \numberline {A}Sample Appendix}{11}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Another Sample Appendix}{12}{Appendix.a.B}
